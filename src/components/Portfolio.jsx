@@ -27,7 +27,7 @@ const Portfolio = () => {
             </div>
           </a>
 
-          <a href="" className="cursor-pointer">
+          <a href="https://github.com/benefied/Web3-Car-Leaser" className="cursor-pointer">
             <div className="second__portfolio lg:absolute md:absolute sm:relative top-[-2rem] right-[18rem] bg-red-100 shadow-md px-[4rem] pb-[4rem] text-center hover:scale-105 hover:z-10 duration-100 ease-in-out">
               <i className="font-bold text-xl bg-red-300 text-white p-1 rounded-lg">
                 02
@@ -41,7 +41,7 @@ const Portfolio = () => {
             </div>
           </a>
 
-          <a href="" className="cursor-pointer">
+          <a href="https://github.com/benefied/News-Site-API-Data-" className="cursor-pointer">
             <div className="third__portfolio lg:absolute md:absolute sm:relative top-[6rem] left-[0rem] bg-blue-100 shadow-md px-[4rem] pb-[4rem] text-center hover:scale-105 hover:z-10 duration-100 ease-in-out">
               <i className="font-bold text-xl bg-blue-300 text-white p-1 rounded-lg">
                 03

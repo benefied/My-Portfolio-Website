@@ -5,7 +5,7 @@ const SocialMedia = () => {
   return (
     <div className=" bg-slate-100">
       <div className="grid grid-flow-row gap-2 lg:p-5 md:p-3 sm:p-1 w-full">
-        <a href="www.linkedin.com/in/benedict-ojekudo-6a36b1225" className=" cursor-pointer">
+        <a href="https://www.linkedin.com/in/benedict-ojekudo-6a36b1225" className=" cursor-pointer">
           <div className="bg-slate-200 p-3 flex shadow-md shadow-gray-400 hover:shadow-lg hover:scale-105">
             <div className="p-5 flex items-center bg-slate-100 rounded-full shadow-md shadow-cyan-400">
               <span className="">
@@ -20,7 +20,7 @@ const SocialMedia = () => {
             </div>
           </div>
         </a>
-        <a href="www.ojekudobenedict1@gmail.com" className=" cursor-pointer">
+        <a href="https://www.ojekudobenedict1@gmail.com" className=" cursor-pointer">
           <div className="bg-slate-200 p-3 flex shadow-md shadow-gray-400 hover:shadow-lg hover:scale-105">
             <div className="p-5 flex items-center bg-slate-100 rounded-full shadow-md shadow-red-400">
               <span className="">
@@ -35,7 +35,7 @@ const SocialMedia = () => {
             </div>
           </div>
         </a>
-        <a href="www.github.com/benefied" className=" cursor-pointer">
+        <a href="https://www.github.com/benefied" className=" cursor-pointer">
           <div className="bg-slate-200 p-3 flex shadow-md shadow-gray-400  hover:shadow-lg hover:scale-105">
             <div className="p-5 flex items-center bg-slate-100 rounded-full shadow-md shadow-gray-400">
               <span className="">
@@ -50,7 +50,7 @@ const SocialMedia = () => {
             </div>
           </div>
         </a>
-        <a href="www.twitter.com" className=" cursor-pointer">
+        <a href="https://www.twitter.com/hurlway" className=" cursor-pointer">
           <div className="bg-slate-200 p-3 flex shadow-md shadow-gray-400  hover:shadow-lg hover:scale-105">
             <div className="p-5 flex items-center bg-slate-100 rounded-full shadow-md shadow-blue-400">
               <span className="">

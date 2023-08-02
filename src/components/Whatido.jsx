@@ -34,7 +34,7 @@ const Whatido = () => {
                 </div>
                 <div className=' bg-green-100 px-4 py-9 shadow-xl'>
                     <div className='text-left'>
-                        <h1 className=' font-bold text-lg shadow-md text-gray-800 tracking-widest underline underline-offset-4'>Working with teams by:</h1>
+                        <h1 className=' font-bold text-lg shadow-md text-gray-800 tracking-widest underline underline-offset-4'>Work with teams by:</h1>
                     </div>
                     <div>
                         <ul className='text-left px-3 text-gray-600 font-medium'>

@@ -22,7 +22,7 @@ const Skills = () => {
     },
     {
       logo:<DiJavascript1/>,
-      name: "Javascript"
+      name: "J.script"
     },
     {
       logo:<FaReact/>,
@@ -34,7 +34,7 @@ const Skills = () => {
     },
     {
       logo: <FaBroom/>,
-      name: "Adobe and others"
+      name: "Adobe"
     }
   ]
   const responsive = {
@@ -64,7 +64,7 @@ const Skills = () => {
       </div>
       <div className="pt-[3rem]">
         <div className=""><h1 className=" font-light text-xl">My stacks and libraries</h1></div>
-        <div className="bg-gray-600 lg:p-4 md:p-3 sm:p-4 text-white shadow-xl rounded-xl">
+        <div className="bg-gray-500 lg:p-4 md:p-3 sm:p-[7rem] w-full text-white shadow-xl rounded-xl">
         <Carousel responsive={responsive}>
          {skillItems.map((skillItem) => (<CarouselItem logo={skillItem.logo} name={skillItem.name}/>))}
         </Carousel>

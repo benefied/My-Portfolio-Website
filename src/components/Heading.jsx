@@ -28,7 +28,7 @@ const Heading = () => {
         </div>
       </div>
       </div>
-      <div className="max-sm:hidden w-[40rem] md:flex md:justify-center">
+      <div className="lg:w-[40rem] md:w-full sm:w-full md:flex md:justify-center">
       <SocialMedia/>
       </div>
     </div>
